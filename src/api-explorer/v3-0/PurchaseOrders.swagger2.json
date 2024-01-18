@@ -622,7 +622,7 @@
         },
         "PolicyExternalID": {
           "type": "string",
-          "description": "Required. The external identifier of the policy that should be associated with the purchase order. The external Id is a property of the policy configuration screen. Clients will need to get these ID’s from the Implementation team if using professional version. For standard version the value is always 'PO'"
+          "description": "Required. The external identifier of the policy that should be associated with the purchase order. The external Id is a property of the policy configuration screen. Clients will need to get these ID’s from the Implementation team if using professional version. For the standard version, please refer to the PO import document"
         },
         "PoVendorTaxId": {
           "type": "string",
